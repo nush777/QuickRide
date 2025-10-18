@@ -26,3 +26,10 @@ For Passengers:
      Benapole -> Dhaka
      Benapole -> Jessore etc
      )
+## Good Looking UI with Dynamic Seat Map:
+     - we work with AC(24 seats) and Non AC(32 Seats) So that we handle dynamic seat map for ac and Non Ac Buses.
+     - Look At Below Screen Shots for ticketPanel.php file. 
+     - User can select one or more than one seats at a time .
+     - Also they can cancel those selected seats and Confirm.
+     - User Can't select previous booked seats.
+     - We Handle dynamic Ticket Price calculation. 
