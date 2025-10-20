@@ -33,3 +33,23 @@ For Passengers:
      - Also they can cancel those selected seats and Confirm.
      - User Can't select previous booked seats.
      - We Handle dynamic Ticket Price calculation. 
+## 💳 Secure Payments: 
+     - No actual Payment option. But in Future, Inshallah We will work on it.
+
+## ✅ Refundable Options:
+     - A User can refund his/her tickets based on booking Dates.They have to cancel theie ticket before 2 days at least.
+## 📂 Manage Bookings:
+     - View booking history, upcoming trips & cancel or modify reservations.
+     For Administrators:
+
+## 🛠️ Bus Management: 
+     Add, update, manage bus details, schedules & routes.
+
+🎟️ Booking Overview:
+     Monitor bookings and ticket availability.
+
+🖥️ Dynamic Updates:
+    - We record total 12 days of bus & ticket information ( Dynamically ).
+    - So that User can Booked advance ticket  5 days before.
+    - Admin has the accaccess to see the previous 6 days record.
+    - Every Day the date_name_table will updated autoautomatically & remove the last previous date_name_table.
