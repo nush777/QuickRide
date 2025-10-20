@@ -64,5 +64,9 @@ For Passengers:
 | 2111477642  | Nusrat Jahan Othoi       |
 | 2212088642  | Saif Barkatullah         |
 
+Faculty Supervisor: Professor Dr. Md. Sazzad Hossain </br>
+Department: Department of Electrical and Computer Engineering </br>
+University: North South University </br>
+
 
 
