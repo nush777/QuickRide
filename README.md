@@ -16,7 +16,7 @@ For Passengers:
     🚌 Dynamic Bus:
      For Dynamic Bus Time, We work with two predefined location_time for a specific Location with predefined location_level(e.x 1,2,3...) 
      so that user can search from specific bus stop location.
-    (E.X  Dhaka - Jessore - Benapole location buses .User can search
+    (E.X  Dhaka - Jessore - Benapole location buses.User can search
 
      Dhaka    -> Benapole
      Dhaka    -> Jessore
