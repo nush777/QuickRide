@@ -53,6 +53,10 @@ For Passengers:
     - So that User can Booked advance ticket  5 days before.
     - Admin has the accaccess to see the previous 6 days record.
     - Every Day the date_name_table will updated autoautomatically & remove the last previous date_name_table.
+## 💡 How to Run the Project
+
+
+
 
 
 ## Team Members
