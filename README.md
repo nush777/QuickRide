@@ -54,7 +54,7 @@ For Passengers:
     - Admin has the accaccess to see the previous 6 days record.
     - Every Day the date_name_table will updated autoautomatically & remove the last previous date_name_table.
 
-## 💡 How to Run the Project
+## 💡 How to Run the Project.
 
 
 
