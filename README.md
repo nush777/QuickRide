@@ -76,7 +76,7 @@ Add, update, and manage bus details, schedules, and routes.
 
 Import The sql file on your XAMMP phpMyAdmin Server
 ```bash
-(this is the .sql file name for import)--->  cse327project(3).sql
+(this is the .sql file name for import)--->  cse327project.sql
 ```
 
 ## After Import database
@@ -89,9 +89,7 @@ Import The sql file on your XAMMP phpMyAdmin Server
 Clone this repository On:
 Local(C)Drive -> xammp -> htdocs 
 
-```bash
-  git clone https://github.com/Rakib-28169-islam/Online-Bus-Ticket-Booking-System.git
-```
+
 
 Navigate to the project directory:
 ```bash
@@ -122,4 +120,6 @@ http://localhost/Online-Bus-Ticket-Booking-System/userHome.php
 ![](./screenshots/selectSeat.PNG)
 ![](./screenshots/finalTicket.PNG)
 ![](./screenshots/ticketOperation.PNG)
+
+
 
