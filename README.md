@@ -35,35 +35,36 @@ For Passengers:
 
 
     🪑 Good Looking UI with Dynamic Seat Map:
-     we work with AC(24 seats) and Non AC(32 Seats) So that we handle dynamic seat map for ac and Non Ac Buses.
-    Look At Below Screen Shots for ticketPanel.php file. 
-    User can select one or more than one seats at a time .
-    Also they can cancel those selected seats and Confirm.
-    User Can't select previous booked seats.
-    We Handle dynamic Ticket Price calculation. 
+    - we work with AC(24 seats) and Non AC(32 Seats) So that we handle dynamic seat map for ac and Non Ac Buses.
+    - Look At Below Screen Shots for ticketPanel.php file. 
+    - User can select one or more than one seats at a time .
+    - Also they can cancel those selected seats and Confirm.
+    - User Can't select previous booked seats.
+    - We Handle dynamic Ticket Price calculation. 
 
     💳 Secure Payments: 
-    No actual Payment option But in Future, Inshallah We will work on it.
+     - No actual Payment option But in Future, Inshallah We will work on it.
 
     ✅ Refundable Options:
-    A User can refund his/her tickets based on booking Dates.They Have to cancel there ticket before 2 days at least.
+     - A User can refund his/her tickets based on booking Dates.They Have to cancel there ticket before 2 days at least.
 
     📂 Manage Bookings:
-    View booking history, upcoming trips, and cancel or modify reservations.
+     - View booking history, upcoming trips, and cancel or modify reservations.
 
 For Administrators:
 
 🛠️ Bus Management: 
-Add, update, and manage bus details, schedules, and routes.
+   Add, update, and manage bus details, schedules, and routes.
 
 🎟️ Booking Overview:
- Monitor bookings and ticket availability.
+    Monitor bookings and ticket availability.
 
 🖥️ Dynamic Updates:
- we record total 12 days of bus and ticket information(Dynamically.
- So that User can Booked advance ticket  5 days before.
- Admin has the accaccess to see the previous 6 days record.
- Every Day the date_name_table will updated autoautomatically and remove the last previous date_name_table.
+ - we record total 12 days of bus and ticket information(Dynamically.
+ - So that User can Booked advance ticket  5 days before.
+ - Admin has the accaccess to see the previous 6 days record.
+ - Every Day the date_name_table will updated autoautomatically and remove the last previous date_name_table.
+
 ## 💡 How to Run the Project
 
 
@@ -121,5 +122,16 @@ http://localhost/Online-Bus-Ticket-Booking-System/userHome.php
 ![](./screenshots/finalTicket.PNG)
 ![](./screenshots/ticketOperation.PNG)
 
+--------------------------------
+##  Team Members  
+-------------------------
 
-
+|            Name            |            ID         |
+|----------------------------|-----------------------|
+|  MD Naimul Hasan Munna     |        2122119642     |
+|  Nusrat Jahan Noor         |        2121995642     |
+|  Nusrat Jahan  Othoi       |        2111477642     |
+                                                
+## Instructor: Professor Dr. Md. Sazzad Hossain ( MDSH )
+## Email: sazzad.hossain14@northsouth.edu
+## North South University.
