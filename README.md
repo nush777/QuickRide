@@ -20,8 +20,8 @@ For Passengers:
     User can Search Buses From --> To Location with Coach Type and Date Based.
 
     🚌 Dynamic Bus:
-     For Dynamic Bus Time, We work with two predefined location_time for a specific Location with predefined location_level(e.x 1,2,3...) 
-     so that user can search from specific bus stop location.
+      - For Dynamic Bus Time, We work with two predefined location_time for a specific Location with predefined location_level(e.x 1,2,3...) 
+        so, that user can search from specific bus stop location.
     (E.X  Dhaka - Jessore - Benapole location buses .User can search
 
      Dhaka    -> Benapole
@@ -30,31 +30,34 @@ For Passengers:
      Jessore  -> Dhaka
      Benapole -> Jessore
      Benapole -> Dhaka
-     Benapole -> Jessore etc
+     Benapole -> Jessore 
+     Dhaka    -> Tangail
+     Tangail  -> Dhaka
+     Dhaka    -> Narayangonj etc
      )
 
 
     🪑 Good Looking UI with Dynamic Seat Map:
-     we work with AC(24 seats) and Non AC(32 Seats) So that we handle dynamic seat map for ac and Non Ac Buses.
-    Look At Below Screen Shots for ticketPanel.php file. 
-    User can select one or more than one seats at a time .
-    Also they can cancel those selected seats and Confirm.
-    User Can't select previous booked seats.
-    We Handle dynamic Ticket Price calculation. 
+      - we work with AC(24 seats) and Non AC(32 Seats) So that we handle dynamic seat map for ac and Non Ac Buses.
+      - Look At Below Screen Shots for ticketPanel.php file. 
+      - User can select one or more than one seats at a time .
+      - Also they can cancel those selected seats and Confirm.
+      - User Can't select previous booked seats.
+      - We Handle dynamic Ticket Price calculation. 
 
     💳 Secure Payments: 
-    No actual Payment option But in Future, Inshallah We will work on it.
+        - No actual Payment option But in Future, Inshallah We will work on it.
 
     ✅ Refundable Options:
-    A User can refund his/her tickets based on booking Dates.They Have to cancel there ticket before 2 days at least.
+       - A User can refund his/her tickets based on booking Dates.They Have to cancel there ticket before 2 days at least.
 
     📂 Manage Bookings:
-    View booking history, upcoming trips, and cancel or modify reservations.
+      - View booking history, upcoming trips, and cancel or modify reservations.
 
 For Administrators:
 
 🛠️ Bus Management: 
-Add, update, and manage bus details, schedules, and routes.
+     - Add, update, and manage bus details, schedules, and routes.
 
 🎟️ Booking Overview:
  Monitor bookings and ticket availability.
@@ -91,7 +94,7 @@ Import The sql file on XAMMP phpMyAdmin Server
 ![](./screenshots/userHome4.PNG)
 ![](./screenshots/login.PNG)
 ![](./screenshots/signUp.PNG)
-![](./screenshots/ticketOperation.PNG)
+
 
 
 --------------------------------
