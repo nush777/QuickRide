@@ -99,5 +99,19 @@ Import The sql file on XAMMP phpMyAdmin Server
 ![](./screenshots/search2ResultSeat.PNG)
 ![](./screenshots/selectSeat.PNG)
 ![](./screenshots/finalTicket.PNG)
-![](./screenshots/ticketOperation.PNG)
 
+
+
+--------------------------------
+##  Team Members  
+-------------------------
+
+|            Name            |            ID         |
+|----------------------------|-----------------------|
+|  MD Naimul Hasan Munna     |        2122119642     |
+|  Nusrat Jahan Noor         |        2121995642     |
+|  Nusrat Jahan  Othoi       |        2111477642     |
+                                                
+## Instructor: Professor Dr. Md. Sazzad Hossain ( MDSH )
+## Email: sazzad.hossain14@northsouth.edu
+## North South University.
