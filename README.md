@@ -91,12 +91,6 @@ Import The sql file on XAMMP phpMyAdmin Server
 ![](./screenshots/userHome4.PNG)
 ![](./screenshots/login.PNG)
 ![](./screenshots/signUp.PNG)
-![](./screenshots/search1.PNG)
-![](./screenshots/search1Result.PNG)
-![](./screenshots/search1ResultSeat.PNG)
-![](./screenshots/search2Result.PNG)
-![](./screenshots/search2ResultSeat.PNG)
-![](./screenshots/selectSeat.PNG)
 
 
 --------------------------------
