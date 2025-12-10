@@ -17,12 +17,12 @@ The Online Bus Ticket Booking System is a web-based application designed to prov
 For Passengers:
 
     🔍 Search Buses:
-    User can Search Buses From --> To Location with Coach Type and Date Based.
+    - User can Search Buses From --> To Location with Coach Type and Date Based.
 
     🚌 Dynamic Bus:
       - For Dynamic Bus Time, We work with two predefined location_time for a specific Location with predefined location_level(e.x 1,2,3...) 
         so, that user can search from specific bus stop location.
-    (E.X  Dhaka - Jessore - Benapole location buses .User can search
+        (E.X  Dhaka - Jessore - Benapole location buses .User can search
 
      Dhaka    -> Benapole
      Dhaka    -> Jessore
@@ -63,10 +63,10 @@ For Administrators:
  Monitor bookings and ticket availability.
 
 🖥️ Dynamic Updates:
- we record total 12 days of bus and ticket information(Dynamically.
- So that User can Booked advance ticket  5 days before.
- Admin has the accaccess to see the previous 6 days record.
- Every Day the date_name_table will updated autoautomatically and remove the last previous date_name_table.
+ - we record total 12 days of bus and ticket information(Dynamically.
+ - So that User can Booked advance ticket  5 days before.
+ - Admin has the accaccess to see the previous 6 days record.
+ - Every Day the date_name_table will updated autoautomatically and remove the last previous date_name_table.
 ## 💡 How to Run the Project
 
 
@@ -96,7 +96,13 @@ Import The sql file on XAMMP phpMyAdmin Server
 ![](./screenshots/signUp.PNG)
 
 
-
+## Future Improvement
+   - Real-time Ride Tracking -------- ( Map showing pickup & drop-off locations. Distance calculation )
+   - Notification System ------------ ( Email or SMS notification when a booking is confirmed. Alerts for ride updates or cancellations )
+   - Rating & Review System ----------( Ratings for drivers. Comments after a ride )
+   - Driver Verification -------------( improves security & reduces fake accounts )
+   - Chat / Messaging System ---------( between driver and passenger )
+   - Advanced Search Filters Time ----( Vehicle type, Seats available, Price, Driver ratings )
 
 --------------------------------
 ##  Team Members  
